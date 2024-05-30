@@ -1,6 +1,8 @@
 import requests
 import json
 
+# events, game_settings, phases, teams, teams, elements, element_stats, element_types
+# total_players
 
 def callAPI():
     fpl_bootstrap_static_api = "https://fantasy.premierleague.com/api/bootstrap-static/"
